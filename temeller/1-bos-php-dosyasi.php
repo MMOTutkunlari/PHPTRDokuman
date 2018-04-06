@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-//PHP Kodlarımızı buraya yazacağız.
+//PHP Kodlarımızı buraya yazacağız...
 ?>
 </body>
 </html>
