@@ -71,6 +71,9 @@ echo "Merhaba Dünya";
 echo "Merhaba Dünya"
 ?>
 <br /><br />
+<b>Kısa PHP Etiket Kullanım Örneği 2</b><br />
+<?= "Merhaba Dünya"; ?>
+<br /><br />
 <b>PHP Etiket İçinde Etiket Açma Örneği</b><br/>
 <?php
 echo "Merhaba ";
