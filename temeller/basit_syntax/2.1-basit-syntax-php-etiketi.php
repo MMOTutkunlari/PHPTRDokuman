@@ -40,7 +40,7 @@
  * 1.3 PHP Etiketi Hakkında Püf Noktalar
  * Eğer saf bir php dosyanız varsa, php kapatma etiketi (?>) kullanmayabilirsiniz.
  * Bunun bir çok nedeni vardır bunlar sırasıyla;
- * 1. Her saf php penceresi başına 1 satırlık kazanç elde edebilirsiniz. Buda dosya boyutu açısından iyidir.
+ * 1. Her saf php dosyası başına 1 satırlık kazanç elde edebilirsiniz. Buda dosya boyutu açısından iyidir.
  * 2. Etiketi kapattıktan sonra eğer bir boşluk olursa sistem bunu html olarak görecektir ve sayfanıza yanlışlıkla
  * boşluk filan ekleyebilir.
  *
